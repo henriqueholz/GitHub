@@ -1,4 +1,0 @@
-D:\Users\HenriqueHolzdeCastro\Source\Repos\GitHub\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csprojAssemblyReference.cache
-D:\Users\HenriqueHolzdeCastro\Source\Repos\GitHub\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfoInputs.cache
-D:\Users\HenriqueHolzdeCastro\Source\Repos\GitHub\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.AssemblyInfo.cs
-D:\Users\HenriqueHolzdeCastro\Source\Repos\GitHub\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csproj.CoreCompileInputs.cache
